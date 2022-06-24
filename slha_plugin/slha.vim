@@ -58,8 +58,3 @@ hi def link slhaBlockNames  Type
 
 
 let b:current_syntax = "slha"
-
-
-
-
-
